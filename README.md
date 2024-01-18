@@ -1,4 +1,4 @@
-# Weather
+# calendar
 ## 개발 환경 및 도구
 - **언어:** JavaScript
 - **프레임워크:** React
